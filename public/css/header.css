@@ -1,0 +1,23 @@
+p {
+   color:white;
+   background-color:red;
+}
+.div-header {
+	width:100%;
+	background-color:lightblue;
+}
+input[type=text] {
+  width: 40%;
+  height:100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  position: relative;
+}
+img{
+	width: 20px;
+	height:40px;
+	position: relative;
+	 padding: 12px 20px;
+  margin: 8px 0;
+}
